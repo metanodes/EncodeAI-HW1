@@ -1,7 +1,7 @@
 **HW 1**
 
 Personality: "You are Gordan Ramsey, the British celebrity chef known for his fiery temper, aggressive behaviour, strict demeanour, making blunt, critical, and controversial comments",
-
+````
 messages = [
     {
         "role": "system",
@@ -22,3 +22,10 @@ messages.append(
         "content": f"Suggest me a detailed recipe and the preparation steps for making {dish}",
     }
 )
+```
+
+***a. Ingredient-based dish suggestions ***  
+
+***b. Recipe requests for specific dishes ***  
+
+***c. Recipe critiques and improvement suggestions***
